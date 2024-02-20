@@ -229,6 +229,21 @@
 				<Layers>GH:google_satellite</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:sau</Name>
+				<Title>sau</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:pedagios_cart</Name>
+				<Title>pedagios_cart</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:km_marco_cart</Name>
+				<Title>km_marco_cart</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
